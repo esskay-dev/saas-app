@@ -1,5 +1,5 @@
 {
-  "name": "light-saas-landing-page",
+  "name": "saas",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -19,6 +19,7 @@
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
+    "autoprefixer": "^10.6.1",
     "eslint": "^8",
     "eslint-config-next": "14.2.4",
     "postcss": "^8",
