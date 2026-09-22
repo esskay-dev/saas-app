@@ -11,7 +11,7 @@ export const Navbar = () => {
           Streamline your workflow and boost your productivity.
         </p>
         <p>Get started for free</p>
-        <ArrowRight className="h-4 w-4 inline-flex justify-center" />
+        <ArrowRight className="arrow-right" />
       </div>
       <div className="py-5">
         <div className="container">
