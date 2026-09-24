@@ -1,6 +1,5 @@
 import type { Metadata } from "next";
 import { DM_Sans } from "next/font/google";
-// @ts-expect-error Next.js loads this stylesheet at runtime.
 import "./globals.css";
 import { twMerge } from "tailwind-merge";
 
